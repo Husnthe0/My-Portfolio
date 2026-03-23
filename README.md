@@ -1,7 +1,3 @@
-Below is a **clean, professional GitHub README** tailored exactly to your portfolio project. It is structured to look credible, developer-oriented, and polished.
-
----
-
 # 📌 Hasina Hazraty — Portfolio Website
 
 A modern, responsive personal portfolio website built using **HTML, CSS, and Bootstrap 5**.
