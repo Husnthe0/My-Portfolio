@@ -7,22 +7,9 @@ This project showcases professional background, experience, training, and CMS de
 
 ## 🚀 Live Preview
 
-*(Add your GitHub Pages link here once deployed)*
-
 ```
-https://your-username.github.io/your-repo-name/
+ https://husnthe0.github.io/My-Portfolio/
 ```
-
----
-
-## 📸 Preview
-
-*(Optional: Add a screenshot of your homepage here)*
-
-```
-assets/preview.png
-```
-
 ---
 
 ## 🧠 Project Overview
@@ -126,39 +113,6 @@ Visual representation of development stages:
 Explanation of personal branding concept and meaning behind the logo.
 
 ---
-
-## ⚙️ Setup Instructions
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-
-2. Navigate to the project folder:
-
-   ```bash
-   cd your-repo-name
-   ```
-
-3. Open `index.html` in your browser:
-
-   * Double-click the file
-     OR
-   * Use a local server (recommended)
-
----
-
-## 🌐 Deployment (GitHub Pages)
-
-1. Go to repository settings
-2. Navigate to **Pages**
-3. Select:
-
-   * Source: `Deploy from branch`
-   * Branch: `main` / `root`
-4. Save and wait for deployment
-5. Access your live site via the provided URL
 
 ---
 
